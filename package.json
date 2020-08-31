@@ -1,0 +1,20 @@
+{
+  "name": "password-keychain",
+  "version": "1.0.0",
+  "description": "a app to store all your passwords",
+  "main": "./src/app.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "Electron",
+    "JS",
+    "App"
+  ],
+  "author": "Ahmed Tanzeer Hossain",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^10.1.0",
+    "electron-reloader": "^1.0.1"
+  }
+}
